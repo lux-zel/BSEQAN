@@ -1,2 +1,0 @@
-# BSEQAN
-school

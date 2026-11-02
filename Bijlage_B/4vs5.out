@@ -1,0 +1,51 @@
+########################################
+# Program: water
+# Rundate: Sat 31 Oct 2026 15:42:01
+# Commandline: water
+#    -auto
+#    -stdout
+#    -asequence emboss_water-I20261031-154156-0919-14355195-p1m.asequence
+#    -bsequence emboss_water-I20261031-154156-0919-14355195-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: seq_3
+# 2: seq_4
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 148
+# Identity:      39/148 (26.4%)
+# Similarity:    66/148 (44.6%)
+# Gaps:          14/148 ( 9.5%)
+# Score: 147.5
+# 
+#
+#=======================================
+
+seq_3              4 ltdaekaaisglwgkv--nadavgaealgrllvvypwtqrffehfgdlss     51
+                     |:.|||..|...|..|  |.:..|.:.|.:.....|..|.||..|..:::
+seq_4             12 lsaaektkirsawapvysnyetsgvdilvkfftstpaaqeffpkfkgmtt     61
+
+seq_3             52 asavmgnakvkahgkkvitafadglkhldnlkgtfsalsel---hcdklh     98
+                     |..:..:|.|:.|.:::|.|..|.:..:|:.:.....|.:|   |.....
+seq_4             62 adqlkksadvrwhaeriinavndavtsmddtekmsmklrdlsgkhaksfq    111
+
+seq_3             99 vdpenfrllgnmivivlshdlgkdftpaaqaafqkvvagvasalahky    146
+                     |||:.|::|..:|.         |...|..|.|:|:::.:...|...|
+seq_4            112 vdpqyfkvlaavia---------dtvaagdagfeklmsmicillrsay    150
+
+
+#---------------------------------------
+#---------------------------------------
