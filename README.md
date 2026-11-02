@@ -3,4 +3,4 @@
 * Begeleider: Said Basmagi
 * Student: Lux van der Zel, 1164403
 * Gelegenheid: 1
-* Datum: 1-10-2026
+* Datum: 2-10-2026
